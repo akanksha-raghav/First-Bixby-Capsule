@@ -1,2 +1,2 @@
 # First-Bixby-Capsule
-In this capsule you  Will make bixby to learn from you and repaet the same with set of result output.
+In this capsule you  Will make Bixby to learn from you and repeat the same with set of result output.
